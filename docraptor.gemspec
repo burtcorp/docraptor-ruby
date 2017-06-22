@@ -4,7 +4,7 @@ require "docraptor/version"
 
 Gem::Specification.new do |s|
   s.name        = "docraptor"
-  s.version     = DocRaptor::VERSION
+  s.version     = "#{DocRaptor::VERSION}.burt"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Elijah Miller", "Matthew Gordon"]
   s.email       = ["elijah@expectedbehavior.com", "matt@expectedbehavior.com"]
